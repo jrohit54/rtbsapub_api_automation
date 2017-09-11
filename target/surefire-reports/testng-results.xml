@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="100" passed="100">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.serviceTest.LoginTest" duration-ms="31026" started-at="2017-09-11T08:21:05Z" finished-at="2017-09-11T08:21:36Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31026" started-at="2017-09-11T08:21:05Z" finished-at="2017-09-11T08:21:36Z">
+      <class name="com.serviceTest.LoginTest">
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="2685" started-at="2017-09-11T13:51:05Z" finished-at="2017-09-11T13:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="332" started-at="2017-09-11T13:51:08Z" finished-at="2017-09-11T13:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="327" started-at="2017-09-11T13:51:08Z" finished-at="2017-09-11T13:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="333" started-at="2017-09-11T13:51:08Z" finished-at="2017-09-11T13:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="291" started-at="2017-09-11T13:51:09Z" finished-at="2017-09-11T13:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="300" started-at="2017-09-11T13:51:09Z" finished-at="2017-09-11T13:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="282" started-at="2017-09-11T13:51:09Z" finished-at="2017-09-11T13:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="295" started-at="2017-09-11T13:51:10Z" finished-at="2017-09-11T13:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="286" started-at="2017-09-11T13:51:10Z" finished-at="2017-09-11T13:51:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="287" started-at="2017-09-11T13:51:10Z" finished-at="2017-09-11T13:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="308" started-at="2017-09-11T13:51:11Z" finished-at="2017-09-11T13:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="284" started-at="2017-09-11T13:51:11Z" finished-at="2017-09-11T13:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="295" started-at="2017-09-11T13:51:11Z" finished-at="2017-09-11T13:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="300" started-at="2017-09-11T13:51:11Z" finished-at="2017-09-11T13:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="343" started-at="2017-09-11T13:51:12Z" finished-at="2017-09-11T13:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="335" started-at="2017-09-11T13:51:12Z" finished-at="2017-09-11T13:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="287" started-at="2017-09-11T13:51:12Z" finished-at="2017-09-11T13:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="294" started-at="2017-09-11T13:51:13Z" finished-at="2017-09-11T13:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="294" started-at="2017-09-11T13:51:13Z" finished-at="2017-09-11T13:51:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="285" started-at="2017-09-11T13:51:13Z" finished-at="2017-09-11T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="369" started-at="2017-09-11T13:51:14Z" finished-at="2017-09-11T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:14Z" finished-at="2017-09-11T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:14Z" finished-at="2017-09-11T13:51:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="297" started-at="2017-09-11T13:51:14Z" finished-at="2017-09-11T13:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="289" started-at="2017-09-11T13:51:15Z" finished-at="2017-09-11T13:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="273" started-at="2017-09-11T13:51:15Z" finished-at="2017-09-11T13:51:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="271" started-at="2017-09-11T13:51:15Z" finished-at="2017-09-11T13:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="275" started-at="2017-09-11T13:51:16Z" finished-at="2017-09-11T13:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="330" started-at="2017-09-11T13:51:16Z" finished-at="2017-09-11T13:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="288" started-at="2017-09-11T13:51:16Z" finished-at="2017-09-11T13:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="279" started-at="2017-09-11T13:51:16Z" finished-at="2017-09-11T13:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:17Z" finished-at="2017-09-11T13:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="273" started-at="2017-09-11T13:51:17Z" finished-at="2017-09-11T13:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:17Z" finished-at="2017-09-11T13:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="279" started-at="2017-09-11T13:51:18Z" finished-at="2017-09-11T13:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="284" started-at="2017-09-11T13:51:18Z" finished-at="2017-09-11T13:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:18Z" finished-at="2017-09-11T13:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="270" started-at="2017-09-11T13:51:18Z" finished-at="2017-09-11T13:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="271" started-at="2017-09-11T13:51:19Z" finished-at="2017-09-11T13:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:19Z" finished-at="2017-09-11T13:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="273" started-at="2017-09-11T13:51:19Z" finished-at="2017-09-11T13:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:20Z" finished-at="2017-09-11T13:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:20Z" finished-at="2017-09-11T13:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="284" started-at="2017-09-11T13:51:20Z" finished-at="2017-09-11T13:51:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:20Z" finished-at="2017-09-11T13:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="270" started-at="2017-09-11T13:51:21Z" finished-at="2017-09-11T13:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="269" started-at="2017-09-11T13:51:21Z" finished-at="2017-09-11T13:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:21Z" finished-at="2017-09-11T13:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="286" started-at="2017-09-11T13:51:21Z" finished-at="2017-09-11T13:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:22Z" finished-at="2017-09-11T13:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="279" started-at="2017-09-11T13:51:22Z" finished-at="2017-09-11T13:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:22Z" finished-at="2017-09-11T13:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="273" started-at="2017-09-11T13:51:23Z" finished-at="2017-09-11T13:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="269" started-at="2017-09-11T13:51:23Z" finished-at="2017-09-11T13:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:23Z" finished-at="2017-09-11T13:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="275" started-at="2017-09-11T13:51:23Z" finished-at="2017-09-11T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="268" started-at="2017-09-11T13:51:24Z" finished-at="2017-09-11T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="275" started-at="2017-09-11T13:51:24Z" finished-at="2017-09-11T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="271" started-at="2017-09-11T13:51:24Z" finished-at="2017-09-11T13:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="269" started-at="2017-09-11T13:51:24Z" finished-at="2017-09-11T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:25Z" finished-at="2017-09-11T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="270" started-at="2017-09-11T13:51:25Z" finished-at="2017-09-11T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="339" started-at="2017-09-11T13:51:25Z" finished-at="2017-09-11T13:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="279" started-at="2017-09-11T13:51:26Z" finished-at="2017-09-11T13:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="278" started-at="2017-09-11T13:51:26Z" finished-at="2017-09-11T13:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="274" started-at="2017-09-11T13:51:26Z" finished-at="2017-09-11T13:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="268" started-at="2017-09-11T13:51:26Z" finished-at="2017-09-11T13:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="267" started-at="2017-09-11T13:51:27Z" finished-at="2017-09-11T13:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="268" started-at="2017-09-11T13:51:27Z" finished-at="2017-09-11T13:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="270" started-at="2017-09-11T13:51:27Z" finished-at="2017-09-11T13:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="298" started-at="2017-09-11T13:51:28Z" finished-at="2017-09-11T13:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="316" started-at="2017-09-11T13:51:28Z" finished-at="2017-09-11T13:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="294" started-at="2017-09-11T13:51:28Z" finished-at="2017-09-11T13:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="276" started-at="2017-09-11T13:51:28Z" finished-at="2017-09-11T13:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:29Z" finished-at="2017-09-11T13:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="267" started-at="2017-09-11T13:51:29Z" finished-at="2017-09-11T13:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="269" started-at="2017-09-11T13:51:29Z" finished-at="2017-09-11T13:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="273" started-at="2017-09-11T13:51:30Z" finished-at="2017-09-11T13:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="285" started-at="2017-09-11T13:51:30Z" finished-at="2017-09-11T13:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="285" started-at="2017-09-11T13:51:30Z" finished-at="2017-09-11T13:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="285" started-at="2017-09-11T13:51:30Z" finished-at="2017-09-11T13:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="291" started-at="2017-09-11T13:51:31Z" finished-at="2017-09-11T13:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="275" started-at="2017-09-11T13:51:31Z" finished-at="2017-09-11T13:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="297" started-at="2017-09-11T13:51:31Z" finished-at="2017-09-11T13:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="297" started-at="2017-09-11T13:51:32Z" finished-at="2017-09-11T13:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="337" started-at="2017-09-11T13:51:32Z" finished-at="2017-09-11T13:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:32Z" finished-at="2017-09-11T13:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="267" started-at="2017-09-11T13:51:32Z" finished-at="2017-09-11T13:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="269" started-at="2017-09-11T13:51:33Z" finished-at="2017-09-11T13:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="293" started-at="2017-09-11T13:51:33Z" finished-at="2017-09-11T13:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="278" started-at="2017-09-11T13:51:33Z" finished-at="2017-09-11T13:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="288" started-at="2017-09-11T13:51:34Z" finished-at="2017-09-11T13:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="268" started-at="2017-09-11T13:51:34Z" finished-at="2017-09-11T13:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="272" started-at="2017-09-11T13:51:34Z" finished-at="2017-09-11T13:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="282" started-at="2017-09-11T13:51:34Z" finished-at="2017-09-11T13:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="287" started-at="2017-09-11T13:51:35Z" finished-at="2017-09-11T13:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="283" started-at="2017-09-11T13:51:35Z" finished-at="2017-09-11T13:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="287" started-at="2017-09-11T13:51:35Z" finished-at="2017-09-11T13:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="277" started-at="2017-09-11T13:51:36Z" finished-at="2017-09-11T13:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+        <test-method status="PASS" signature="rtbsapubApiTest()[pri:0, instance:com.serviceTest.LoginTest@2669b199]" name="rtbsapubApiTest" duration-ms="291" started-at="2017-09-11T13:51:36Z" finished-at="2017-09-11T13:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rtbsapubApiTest -->
+      </class> <!-- com.serviceTest.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.serviceTest.LoginTest -->
+</testng-results>
